@@ -1,0 +1,12 @@
+html {
+  font-family: Georgia, serif;
+  color: #fff;
+}
+
+header {
+  background-color: #495562;
+}
+
+.banner {
+  max-height: 500px;
+}
